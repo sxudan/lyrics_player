@@ -1,6 +1,6 @@
 # lyrics_player
 
-This is a flutter project which player .srt lyrics. It can play lyrics in PIP mode too.
+This is a flutter project which plays .srt lyrics. It can play lyrics in PIP mode too.
 
 # Demo
 
