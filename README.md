@@ -4,4 +4,4 @@ This is a flutter project which player .srt lyrics. It can play lyrics in PIP mo
 
 # Demo
 
-<img src='https://im2.ezgif.com/tmp/ezgif-2-863a3cef60.gif' width=480 height='auto'/>
+<img src='https://github.com/sxudan/lyrics_player/blob/main/ezgif-2-5a421a3caa.gif' width=480 height='auto'/>
